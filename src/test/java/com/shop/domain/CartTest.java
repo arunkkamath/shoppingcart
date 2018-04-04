@@ -14,7 +14,6 @@ class CartTest {
 	@BeforeEach
 	void setUp() throws Exception {
 		cut = new Cart();
-		
 	}
 
 	@Test
